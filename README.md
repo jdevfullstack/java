@@ -15,9 +15,8 @@
 When you are at GitHub, every subdirectory of this repo 
 is a separate sample project that you can use 
 if you have a similar project.
-The good thing is that when you click download or clone,
-these separate projects will be downloaded together with
-the parent directory. But when you are viewing this
+
+But when you are viewing this
 right now as web page in `mongalvarez.github.io` domain,
 you need to click `View on GitHub` to download the
 source codes.
