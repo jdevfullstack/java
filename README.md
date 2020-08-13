@@ -24,8 +24,14 @@ source codes.
 Thanks!
 
 ## Java Highlights
-> - 
+> - Java has an excellent reputation in web development.
 >
+> - Java has a good User Interface library, the Swing and JavaFX,
+where you don't need to install external UI library for your programs.
+>
+> - Java has also an excellent reputation in network programming.
+>
+> - Java is excellent in modular programming through its `beans`.
 
 ## Subdirectories
 And if you want to read the details of each subdirectory:
@@ -34,7 +40,14 @@ And if you want to read the details of each subdirectory:
 
 ***
 
+[![Java Converter App](resources/picture2.png)](https://github.com/xdvrx1/converter-app)
+
+***
+
+[![Java Flappy Bird](resources/picture3.png)](https://github.com/xkcph2017x/FlappyBird)
+
 ## Compiling
+[Java Compile](https://xdvrx1.github.io/gists/gist_001/>)
 
 ## Contributing
 1. Fork the repo!
