@@ -17,7 +17,7 @@ is a separate sample project that you can use
 if you have a similar project.
 
 But when you are viewing this
-right now as web page in `mongalvarez.github.io` domain,
+right now as web page in `xdvrx1.github.io` domain,
 you need to click `View on GitHub` to download the
 source codes.
 
@@ -35,8 +35,6 @@ And if you want to read the details of each subdirectory:
 ***
 
 ## Compiling
-Compiling the project is so easy in the PureBasic IDE.
-Just click `Compile/Run` or press F5.
 
 ## Contributing
 1. Fork the repo!
