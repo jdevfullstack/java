@@ -51,7 +51,7 @@ And if you want to read the details of each subdirectory:
 [![Java Flappy Bird](resources/picture3.png)](https://github.com/xkcph2017x/FlappyBird)
 
 ## Compiling
-[Java Compile](https://xdvrx1.github.io/gists/gist_001/>)
+<https://github.com/xdvrx1/java-create-jar-exe-file-tutorial>
 
 ## Contributing
 1. Fork the repo!
