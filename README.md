@@ -25,6 +25,13 @@ source codes.
 
 Thanks!
 
+## Subdirectories
+And if you want to read the details of each subdirectory:
+
+1. [Java Web Server](https://github.com/xdvrx1/lightweight-web-server/)
+2. [Java Converter App](https://github.com/xdvrx1/converter-app/)
+3. [Java Flappy Bird](https://github.com/xkcph2017x/FlappyBird)
+
 ## Java Highlights
 > - Java has an excellent reputation in web development.
 >
@@ -38,19 +45,6 @@ where you don't need to install external UI library for your programs.
 > - Reputable frameworks like Spring Boot and Spring are based on Java.
 >
 > - Object-Oriented Programming (OOP) is truly achieved in Java programming. 
-
-## Subdirectories
-And if you want to read the details of each subdirectory:
-
-[![Java Web Server](resources/picture1.png)](https://github.com/xdvrx1/lightweight-web-server/)
-
-***
-
-[![Java Converter App](resources/picture2.png)](https://github.com/xdvrx1/converter-app)
-
-***
-
-[![Java Flappy Bird](resources/picture3.png)](https://github.com/xkcph2017x/FlappyBird)
 
 ## Compiling
 <https://github.com/xdvrx1/java-create-jar-exe-file-tutorial>
