@@ -26,8 +26,6 @@ source codes.
 Thanks!
 
 ## Subdirectories
-And if you want to read the details of each subdirectory:
-
 1. [Java Web Server](https://github.com/xdvrx1/lightweight-web-server/)
 2. [Java Converter App](https://github.com/xdvrx1/converter-app/)
 3. [Java Flappy Bird](https://github.com/xkcph2017x/FlappyBird)
