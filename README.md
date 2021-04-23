@@ -43,6 +43,35 @@ where you don't need to install external UI library for your programs.
 >
 > - Object-Oriented Programming (OOP) is truly achieved in Java programming. 
 
+## About Object-Oriented Programming (OOP)
+The C language is excellent in system programming.
+But Java is known for creating applications, particularly 
+web apps.
+
+But have you ever asked yourself what is OOP?
+
+When a programmer is dealing with system programming,
+it is not much needed but when he/she is creating
+user applications, there is a great need for OOP.
+
+In basic terms, think of this situation:
+if ever virtually you can treat the things
+that you are manipulating as real objects
+virtually, that will simplify your work, isn't it?
+
+Say, you can treat exactly a 3D box as
+a 3D box. Your code will act upon as if
+it's an object. That's the essence of
+being an OOP language. If that box will be
+expressed using the C language purely,
+how would you do it? How would you manipulate
+data in terms of that? Surely, that will
+complicate things.
+
+But again, OOP has its own uses, particularly
+when you are creating user applications like
+web apps.
+
 ## Compiling
 <https://github.com/xdvrx1/java-create-jar-exe-file-tutorial>
 
