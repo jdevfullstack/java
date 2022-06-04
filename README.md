@@ -25,7 +25,7 @@ is a separate sample project that you can use
 if you have a similar project.
 
 But when you are viewing this
-right now as web page in `xdvrx1.github.io` domain,
+right now as web page in `jdevstatic.github.io` domain,
 you need to click `View on GitHub` to download the
 source codes.
 
