@@ -2,12 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fjava&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Subdirectories
-1. [Java Web Server](https://github.com/jdevstatic/lightweight-web-server/)
-2. [Java Converter App](https://github.com/jdevstatic/converter-app/)
-3. [Java Flappy Bird](https://github.com/xkcph2017x/FlappyBird)
-4. [Java Coding Problems](https://github.com/jdevstatic/java-coding-problems)
-
 ## Intro
 When you are at GitHub, every subdirectory of this repo 
 is a separate sample project that you can use 
@@ -29,6 +23,12 @@ abilities or the latest best practices in the field.
 
 However, feel free to learn from these archived projects, 
 preserved as they were during that specific period !
+
+## Subdirectories
+1. [Java Web Server](https://github.com/jdevstatic/lightweight-web-server/)
+2. [Java Converter App](https://github.com/jdevstatic/converter-app/)
+3. [Java Flappy Bird](https://github.com/xkcph2017x/FlappyBird)
+4. [Java Coding Problems](https://github.com/jdevstatic/java-coding-problems)
 
 ## Java Highlights
 > - Java has an excellent reputation in web development.
