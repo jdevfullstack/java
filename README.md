@@ -31,18 +31,18 @@ preserved as they were during that specific period !
 4. [Java Coding Problems](https://github.com/jdevfullstack/java-coding-problems)
 
 ## Java Highlights
-> - Java has an excellent reputation in web development.
->
-> - Java has a good User Interface library, the Swing and JavaFX,
+- Java has an excellent reputation in web development.
+
+- Java has a good User Interface library, the Swing and JavaFX,
 where you don't need to install external UI library for your programs.
->
-> - Java has also an excellent reputation in network programming.
->
-> - Java is excellent in modular programming through its `beans`.
->
-> - Reputable frameworks like Spring Boot and Spring are based on Java.
->
-> - Object-Oriented Programming (OOP) is truly achieved in Java programming. 
+
+- Java has also an excellent reputation in network programming.
+
+- Java is excellent in modular programming through its `beans`.
+
+- Reputable frameworks like Spring Boot and Spring are based on Java.
+
+- Object-Oriented Programming (OOP) is truly achieved in Java programming. 
 
 ## About Object-Oriented Programming (OOP)
 The C language is excellent in system programming.
