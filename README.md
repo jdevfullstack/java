@@ -1,16 +1,4 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146817309-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-146817309-1');
-</script>
-
 # Java Projects
-
-*`updated 4 August 2022`*
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fjava&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -31,6 +19,16 @@ you need to click `View on GitHub` to download the
 source codes.
 
 Thanks!
+   
+## Disclaimer
+Please note that these projects are presented as a showcase of my work during a 
+specific period. They represent a snapshot of my skills and accomplishments 
+at that time. As such, these projects are no longer actively maintained or updated. 
+They are kept public for demonstration purposes and may not reflect my current 
+abilities or the latest best practices in the field. 
+
+However, feel free to learn from these archived projects, 
+preserved as they were during that specific period !
 
 ## Java Highlights
 > - Java has an excellent reputation in web development.
@@ -77,11 +75,6 @@ web apps.
 
 ## Compiling
 <https://github.com/xdvrx1/java-create-jar-exe-file-tutorial>
-
-## Contributing
-1. Fork the repo!
-2. Then, made changes and create a pull request.
-3. If not fork, just please star this. Thanks! 
 
 ## License
 MIT - the permissive license
