@@ -8,7 +8,7 @@ is a separate sample project that you can use
 if you have a similar project.
 
 But when you are viewing this
-right now as web page in `jdevstatic.github.io` domain,
+right now as web page in `jdevfullstack.github.io` domain,
 you need to click `View on GitHub` to download the
 source codes.
 
@@ -25,10 +25,10 @@ However, feel free to learn from these archived projects,
 preserved as they were during that specific period !
 
 ## Subdirectories
-1. [Java Web Server](https://github.com/jdevstatic/lightweight-web-server/)
-2. [Java Converter App](https://github.com/jdevstatic/converter-app/)
+1. [Java Web Server](https://github.com/jdevfullstack/lightweight-web-server/)
+2. [Java Converter App](https://github.com/jdevfullstack/converter-app/)
 3. [Java Flappy Bird](https://github.com/xkcph2017x/FlappyBird)
-4. [Java Coding Problems](https://github.com/jdevstatic/java-coding-problems)
+4. [Java Coding Problems](https://github.com/jdevfullstack/java-coding-problems)
 
 ## Java Highlights
 > - Java has an excellent reputation in web development.
