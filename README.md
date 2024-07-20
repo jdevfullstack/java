@@ -74,7 +74,7 @@ when you are creating user applications like
 web apps.
 
 ## Compiling
-<https://github.com/jdevfullstack-tutorials/java-create-jar-exe-file-tutorial>
+<https://github.com/jdevfullstack-tutorials/java-create-jar-exe-file>
 
 ## License
 MIT - the permissive license
