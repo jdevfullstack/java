@@ -26,7 +26,7 @@ preserved as they were during that specific period !
 
 ## Subdirectories
 1. [Java Web Server](https://github.com/jdevfullstack/lightweight-web-server/)
-2. [Java Converter App](https://github.com/jdevfullstack/converter-app/)
+2. [Java Converter App](https://github.com/jdevfullstack-projects/converter-app/)
 3. [Java Flappy Bird](https://github.com/xkcph2017x/FlappyBird)
 4. [Java Coding Problems](https://github.com/jdevfullstack/java-coding-problems)
 
